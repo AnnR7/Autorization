@@ -1,0 +1,4 @@
+node_modules/
+tests/user.js
+tests-exemples
+playwright-report
